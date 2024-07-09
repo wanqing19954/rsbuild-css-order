@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 
 import './main.less';
-import '@tencent/tea-component/lib/tea.css';
+import 'tea-component/lib/tea.css';
 
 const rootEl = document.getElementById('root');
 if (rootEl) {

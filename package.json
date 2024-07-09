@@ -10,9 +10,9 @@
     "preview": "rsbuild preview"
   },
   "dependencies": {
-    "@tencent/tea-component": "^2.8.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "tea-component": "^2.7.9"
   },
   "devDependencies": {
     "@eslint/compat": "^1.1.0",
