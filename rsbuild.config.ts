@@ -18,7 +18,8 @@ export default defineConfig({
           tea: {
             test: /tea-component/,
             name: 'tea',
-            chunks: 'all'
+            chunks: 'all',
+            minSize: 0
           },
           rocketDesign: {
             test: /@tencent[\\/]rocket-design/,
